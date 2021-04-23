@@ -3,6 +3,8 @@
 [![Live demos (Binder)](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/lumispy/lumispy-demos/master)
 [![Notebook Viewer (nbviewer)](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg?sanitize=true)](http://nbviewer.ipython.org/github/lumispy/lumispy-demos/tree/master/)
 
+<img src="https://github.com/LumiSpy/lumispy/blob/master/doc/media/logo_rec_april21.svg" width="300" alt="LumiSpy">
+
 ## Introduction
 
 This repository contains [Jupyter Notebooks](http://jupyter.org/) to demonstrate and learn
