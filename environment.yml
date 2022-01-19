@@ -1,0 +1,7 @@
+channels:
+  - conda-forge
+dependencies:
+  - lumispy
+  - hyperspy-base
+  - hyperspy-gui-ipywidgets
+  - ipympl
