@@ -1,15 +1,15 @@
 # LumiSpy demos
 
 [![Live demos (Binder)](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/lumispy/lumispy-demos/master)
-[![Notebook Viewer (nbviewer)](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg?sanitize=true)](http://nbviewer.ipython.org/github/lumispy/lumispy-demos/tree/master/)
+[![Notebook Viewer (nbviewer)](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg?sanitize=true)](https://nbviewer.org/github/lumispy/lumispy-demos/tree/master/)
 
-<img src="https://github.com/LumiSpy/lumispy/blob/master/doc/media/logo_rec_april21.svg" width="300" alt="LumiSpy">
+<img src="https://github.com/LumiSpy/lumispy/raw/main/doc/_static/logo_rec_april21.svg" width="300" alt="LumiSpy">
 
 ## Introduction
 
 This repository contains [Jupyter Notebooks](http://jupyter.org/) to demonstrate and learn
 how to process multi-dimensional luminescence spectroscopy data with
-[LumiSpy](https://github.com/lumispy/lumispy). For learning purposes, refer also to the
+[LumiSpy](https://lumispy.org). For learning purposes, refer also to the
 [HyperSpy User Guide](http://hyperspy.org/hyperspy-doc/current/index.html), as LumiSpy
 extends [HyperSpy](https://hyperspy.org) by signal types specifically for luminescence
 spectroscopy.
@@ -33,9 +33,9 @@ visualization, see below.
 
 ### (Non-interactive) Visualizing the demos online
 
-[![Notebook Viewer (nbviewer)](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg?sanitize=true)](http://nbviewer.ipython.org/github/lumispy/lumispy-demos/tree/master/)
+[![Notebook Viewer (nbviewer)](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg?sanitize=true)](https://nbviewer.org/github/lumispy/lumispy-demos/tree/master/)
 
-Follow [this link](http://nbviewer.ipython.org/github/lumispy/lumispy-demos/tree/master/) 
+Follow [this link](https://nbviewer.org/github/lumispy/lumispy-demos/tree/master/) 
 or click on the "render nbviewer" banner above
 to display the demos with the 
 [Jupyter Notebook viewer](http://nbviewer.jupyter.org). 
