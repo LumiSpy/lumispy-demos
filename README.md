@@ -1,15 +1,15 @@
 # LumiSpy demos
 
 [![Live demos (Binder)](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/lumispy/lumispy-demos/master)
-[![Notebook Viewer (nbviewer)](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg?sanitize=true)](http://nbviewer.ipython.org/github/lumispy/lumispy-demos/tree/master/)
+[![Notebook Viewer (nbviewer)](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg?sanitize=true)](https://nbviewer.org/github/lumispy/lumispy-demos/tree/master/)
 
-<img src="https://github.com/LumiSpy/lumispy/blob/master/doc/media/logo_rec_april21.svg" width="300" alt="LumiSpy">
+<img src="https://github.com/LumiSpy/lumispy/raw/main/doc/_static/logo_rec_april21.svg" width="300" alt="LumiSpy">
 
 ## Introduction
 
 This repository contains [Jupyter Notebooks](http://jupyter.org/) to demonstrate and learn
 how to process multi-dimensional luminescence spectroscopy data with
-[LumiSpy](https://github.com/lumispy/lumispy). For learning purposes, refer also to the
+[LumiSpy](https://lumispy.org). For learning purposes, refer also to the
 [HyperSpy User Guide](http://hyperspy.org/hyperspy-doc/current/index.html), as LumiSpy
 extends [HyperSpy](https://hyperspy.org) by signal types specifically for luminescence
 spectroscopy.
@@ -33,25 +33,24 @@ visualization, see below.
 
 ### (Non-interactive) Visualizing the demos online
 
-[![Notebook Viewer (nbviewer)](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg?sanitize=true)](http://nbviewer.ipython.org/github/lumispy/lumispy-demos/tree/master/)
+[![Notebook Viewer (nbviewer)](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg?sanitize=true)](https://nbviewer.org/github/lumispy/lumispy-demos/tree/master/)
 
-Follow [this link](http://nbviewer.ipython.org/github/lumispy/lumispy-demos/tree/master/) 
+Follow [this link](https://nbviewer.org/github/lumispy/lumispy-demos/tree/master/) 
 or click on the "render nbviewer" banner above
 to display the demos with the 
 [Jupyter Notebook viewer](http://nbviewer.jupyter.org). 
-[nbviewer](http://nbviewer.jupyter.org/) will allow you to view the notebooks online,
-but you will not be able to change them or evaluate any code, like is possible with the 
+[Nbviewer](http://nbviewer.jupyter.org/) will allow you to view the notebooks online,
+but you will not be able to change them or evaluate any code, like it is possible with
 [binder](https://mybinder.org/v2/gh/lumispy/lumispy-demos/master).
 
 ### Running and visualizing the demos locally
 
 To run the demo notebooks locally, 
 clone or download the [demos repository](https://github.com/lumispy/lumispy-demos) 
-to your local machine, install LumiSpy with its dependencies and
-[Jupyter Lab](http://jupyterlab.readthedocs.io/en/latest/) or 
-[Jupyter Notebook](https://jupyter-notebook.readthedocs.io/en/stable/)
+to your local machine, [install LumiSpy](https://lumispy.readthedocs.io/en/latest/user_guide/installation.html)
+with its dependencies and [Jupyter Lab](http://jupyterlab.readthedocs.io/en/latest/)
+or [Jupyter Notebook](https://jupyter-notebook.readthedocs.io/en/stable/)
 and use either of the two to run the notebooks.
-
 
 #### (For developers) Testing the demos locally
 
@@ -72,11 +71,13 @@ $ py.test --nbdime
 
 ## Contributing
 
-To contribute new demos or improvements to the current ones fork the demos
-repository and send us a pull request. See the 
+To contribute new demos or improvements to the current ones, fork the demos
+repository and send us a pull request. See the
+[LumiSpy contributing guide](https://lumispy.readthedocs.io/en/latest/contributing.html)
+as well as the
 [HyperSpy Developer Guide](http://hyperspy.org/hyperspy-doc/current/dev_guide.html) 
 for more details on how to contribute to the HyperSpy universe.
 
-For issues and discussions fill a [new issue](https://github.com/lumispy/lumispy-demos/issues) 
-in the lumispy-demos github repository.
+For issues and discussions file a [new issue](https://github.com/lumispy/lumispy-demos/issues) 
+in this repository.
 
