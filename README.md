@@ -1,7 +1,7 @@
 # LumiSpy demos
 
-[![Live demos (Binder)](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/lumispy/lumispy-demos/master)
-[![Notebook Viewer (nbviewer)](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg?sanitize=true)](https://nbviewer.org/github/lumispy/lumispy-demos/tree/master/)
+[![Live demos (Binder)](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/lumispy/lumispy-demos/main)
+[![Notebook Viewer (nbviewer)](https://raw.githubusercontent.com/jupyter/design/main/logos/Badges/nbviewer_badge.svg?sanitize=true)](https://nbviewer.org/github/lumispy/lumispy-demos/tree/main/)
 
 <img src="https://github.com/LumiSpy/lumispy/raw/main/doc/_static/logo_rec_april21.svg" width="300" alt="LumiSpy">
 
@@ -19,9 +19,9 @@ spectroscopy.
 
 ### (Interactive) Running the demos online
 
-[![Live demos (Binder)](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/lumispy/lumispy-demos/master)
+[![Live demos (Binder)](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/lumispy/lumispy-demos/main)
 
-Follow [this link](https://mybinder.org/v2/gh/lumispy/lumispy-demos/master)
+Follow [this link](https://mybinder.org/v2/gh/lumispy/lumispy-demos/main)
 or click the "launch binder" banner above to run the the demos on 
 [mybinder.org](https://mybinder.org/). The demos will run remotely, 
 and one can experiment with LumiSpy in a Jupyter notebook with no need 
@@ -33,15 +33,15 @@ visualization, see below.
 
 ### (Non-interactive) Visualizing the demos online
 
-[![Notebook Viewer (nbviewer)](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg?sanitize=true)](https://nbviewer.org/github/lumispy/lumispy-demos/tree/master/)
+[![Notebook Viewer (nbviewer)](https://raw.githubusercontent.com/jupyter/design/main/logos/Badges/nbviewer_badge.svg?sanitize=true)](https://nbviewer.org/github/lumispy/lumispy-demos/tree/main/)
 
-Follow [this link](https://nbviewer.org/github/lumispy/lumispy-demos/tree/master/) 
+Follow [this link](https://nbviewer.org/github/lumispy/lumispy-demos/tree/main/) 
 or click on the "render nbviewer" banner above
 to display the demos with the 
 [Jupyter Notebook viewer](http://nbviewer.jupyter.org). 
 [Nbviewer](http://nbviewer.jupyter.org/) will allow you to view the notebooks online,
 but you will not be able to change them or evaluate any code, like it is possible with
-[binder](https://mybinder.org/v2/gh/lumispy/lumispy-demos/master).
+[binder](https://mybinder.org/v2/gh/lumispy/lumispy-demos/main).
 
 ### Running and visualizing the demos locally
 
