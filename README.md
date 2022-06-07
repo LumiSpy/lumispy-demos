@@ -1,7 +1,7 @@
 # LumiSpy demos
 
 [![Live demos (Binder)](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/lumispy/lumispy-demos/main)
-[![Notebook Viewer (nbviewer)](https://raw.githubusercontent.com/jupyter/design/main/logos/Badges/nbviewer_badge.svg?sanitize=true)](https://nbviewer.org/github/lumispy/lumispy-demos/tree/main/)
+[![Notebook Viewer (nbviewer)](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg?sanitize=true)](https://nbviewer.org/github/lumispy/lumispy-demos/tree/main/)
 
 <img src="https://github.com/LumiSpy/lumispy/raw/main/doc/_static/logo_rec_april21.svg" width="300" alt="LumiSpy">
 
@@ -33,7 +33,7 @@ visualization, see below.
 
 ### (Non-interactive) Visualizing the demos online
 
-[![Notebook Viewer (nbviewer)](https://raw.githubusercontent.com/jupyter/design/main/logos/Badges/nbviewer_badge.svg?sanitize=true)](https://nbviewer.org/github/lumispy/lumispy-demos/tree/main/)
+[![Notebook Viewer (nbviewer)](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg?sanitize=true)](https://nbviewer.org/github/lumispy/lumispy-demos/tree/main/)
 
 Follow [this link](https://nbviewer.org/github/lumispy/lumispy-demos/tree/main/) 
 or click on the "render nbviewer" banner above
