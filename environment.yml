@@ -5,3 +5,5 @@ dependencies:
   - hyperspy-base>=1.7.4
   - hyperspy-gui-ipywidgets>=1.5.0
   - ipympl
+  - numba
+  - numexpr
